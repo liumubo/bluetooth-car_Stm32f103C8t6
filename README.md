@@ -6,3 +6,7 @@ stm32 单片机➕uniapp 项目，蓝牙/避障小车，项目用到的模块有
 stm32单片机项目可以使用Keil打开，因为使用了freertos系统，所以启动文件要改成自己的，并且Device要选择自己的板子型号
 
 https://github.com/liumubo/bluetooth-car_frontEnd/assets/114791868/f7ed1c30-f509-468a-990e-aec4baf6f01d
+
+
+https://github.com/liumubo/bluetooth-car_frontEnd/assets/114791868/9d9c82b4-5acf-48ec-9d3c-0c5de8138ce5
+
