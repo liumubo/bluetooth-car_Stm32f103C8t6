@@ -10,3 +10,5 @@ https://github.com/liumubo/bluetooth-car_frontEnd/assets/114791868/f7ed1c30-f509
 
 https://github.com/liumubo/bluetooth-car_frontEnd/assets/114791868/9d9c82b4-5acf-48ec-9d3c-0c5de8138ce5
 
+
+https://github.com/liumubo/bluetooth-car_frontEnd/assets/114791868/2a3f6242-36d9-4a5e-aa9f-35754e808ae3
